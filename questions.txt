@@ -3,7 +3,7 @@ How can AI be utilized to combat climate change, and what are the potential risk
 What role does AI play in the future of education, and how can it be used to personalize learning while addressing concerns about data privacy?  
 How can AI assist in medical diagnostics, and what safeguards are necessary to prevent errors or biases in healthcare applications?  
 What are the potential consequences of AI-driven automation on the global job market, and how can societies prepare for widespread workforce changes?  
-How can AI be used to enhance creative industries like music, art, and writing without replacing human creativity?  
+How can AI be used to enhance creative industries like music, art, and writing without replacing human creativity? 
 What are the challenges of developing AI systems that can understand and replicate human emotions, and how might this impact mental health support?  
 How can AI be leveraged to improve disaster response and management, and what are the limitations of relying on technology in crisis situations?  
 What are the risks of AI being used for malicious purposes, such as deepfakes or cyberattacks, and how can these threats be mitigated?  
